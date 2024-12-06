@@ -1,0 +1,6 @@
+{
+    "require": {
+        "lenochware/pclib": "^3.1",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
